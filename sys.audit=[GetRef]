@@ -1,0 +1,19 @@
+[_Main]
+Public Sub
+MsgBox "In Main"
+[1Routine]
+[2 Routine)
+[Din]
+End Sub
+R
+And cOnliCt With
+EndSub
+Public Sub [1Routinel
+MsgBox "In 18outíne"
+Mainl
+Public Sub [2 Routine]
+MsgBox "In 2 Routíne"
+End Sub
+End Sub
+Public Sub [Dim]
+MsgBox "In Dim"
